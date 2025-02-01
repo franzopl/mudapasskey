@@ -4,6 +4,9 @@ chave = "xxxxxxxxxxxxxxxxxxx" #escreva aqui sua passkey nova
 # API configuração
 qb = qbittorrentapi.Client(host='0.0.0.0:8080', username='usuario', password='senhadificilcommuitasletras')
 
+
+#A PARTIR DESTA LINHA VOCÊ NÃO PRECISA ALTERAR NADA
+
 # nova URL
 new_tracker_url = "https://capybarabr.com/announce/"+chave
 
